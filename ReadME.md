@@ -1,4 +1,4 @@
-# Expense Tracker
+# Personal-Budget- Tracker
 
 <img src="accounts/static/images/expense_logo.png" alt="Expense Tracker" width="200px" height="200px"/>
 
